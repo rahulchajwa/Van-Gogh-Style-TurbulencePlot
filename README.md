@@ -5,7 +5,7 @@ the trajectories of the particles are stored in 'trajectories%.dat' file with th
 
 We use the matlab repository https://matlab.mathworks.com/open/fileexchange/v1?id=69470 to define our custom colormap in vgmovie.m. For completeness we include the function customcolormap.m
 
-The result of our simulation looks as follows:
-$[](active_caustics.gif)
+The result of our simulation looks as follows with the vorticity field in the colorbar:
+![](active_caustics.gif)
 
 
