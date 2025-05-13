@@ -6,6 +6,6 @@ the trajectories of the particles are stored in 'trajectories%.dat' file with th
 We use the matlab repository https://matlab.mathworks.com/open/fileexchange/v1?id=69470 to define our custom colormap in vgmovie.m. For completeness we include the function customcolormap.m
 
 The result of our simulation looks as follows:
-$[](https://github.com/rahulchajwa/Van-Gogh-Style-TurbulencePlot/blob/main/active_caustics.gif)
+$[](active_caustics.gif)
 
 
